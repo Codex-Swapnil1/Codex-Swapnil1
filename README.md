@@ -13,7 +13,7 @@ I am passionate about Full Stack Web Development. So, I started learning full-st
 * 🖥️  See my portfolio at [Swapnil Parchake](http://swapnilparchake-portfolio.netlify.app/)
 * ✉️  You can contact me at [swapnilparchakewrd2@gmail.com](mailto:swapnilparchakewrd2@gmail.com)
 * 🧠  I'm learning Full Stack Web Development course at Masai School.
-* 🤝  I'm open to collaborating on I'm open to collaborating on Frontend and Backend Projects.
+* 🤝  I'm open to collaborating on Frontend and Backend Projects.
 * ⚡  I am a balanced person so I focused on a steady and perfecting project. Learning 🧠mindset
 
 <a href="https://www.github.com/Codex-Swapnil1" target="_blank" rel="noreferrer"><img
