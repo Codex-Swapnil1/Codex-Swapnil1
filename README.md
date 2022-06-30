@@ -7,7 +7,7 @@ Hi 👋 My name is Swapnil Parchake
 Aspiring Full Stack Web Developer
 ---------------------------------
 
-I am passionate about Full Stack Web Development. So, I started learning full-stack web development at Masai school. I have hands-on experience in designing, developing, and maintaining projects. I am a detailed-oriented and team player person. I like to learn more in this Domain and Specialize in Fronted An BackEnd frameworks.
+I am passionate about Full Stack Web Development. So, I started learning full-stack web development at Masai school. I have hands-on experience in designing, developing, and maintaining projects. I am a detailed-oriented and team player person. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.
 
 * 🌍  I'm based in Wardha, Maharashtra
 * 🖥️  See my portfolio at [Swapnil Parchake](http://swapnilparchake-portfolio.netlify.app/)
@@ -25,7 +25,6 @@ src="https://img.shields.io/github/followers/Codex-Swapnil1?logo=github&style=fo
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
