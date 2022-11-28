@@ -7,14 +7,14 @@ Hi 👋 My name is Swapnil Parchake
 Aspiring Full Stack Web Developer
 ---------------------------------
 
-I am passionate about Full Stack Web Development. So, I started learning full-stack web development at Masai school. I have hands-on experience in designing, developing, and maintaining projects. I am a detailed-oriented and team player person. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.
+I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects.I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.
 
 * 🌍  I'm based in Wardha, Maharashtra
 * 🖥️  See my portfolio at [Swapnil Parchake](http://swapnilparchake-portfolio.netlify.app/)
 * ✉️  You can contact me at [swapnilparchakewrd2@gmail.com](mailto:swapnilparchakewrd2@gmail.com)
 * 🧠  I'm learning Full Stack Web Development course at Masai School.
 * 🤝  I'm open to collaborating on Frontend and Backend Projects.
-* ⚡  I am a balanced person so I focused on a steady and perfecting project. Learning 🧠mindset
+* ⚡  Learning mindset 🧠.
 
 <a href="https://www.github.com/Codex-Swapnil1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Codex-Swapnil1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
