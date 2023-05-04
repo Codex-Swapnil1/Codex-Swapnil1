@@ -12,7 +12,7 @@ I am passionate about Full Stack Web Development. I have hands-on experience in 
 * 🌍  I'm based in Wardha, Maharashtra
 * 🖥️  See my portfolio at [Swapnil Parchake](https://codex-swapnil1.github.io/)
 * ✉️  You can contact me at [swapnilparchakewrd2@gmail.com](mailto:swapnilparchakewrd2@gmail.com)
-* 🧠  I'm learning Full Stack Web Development course at Masai School.
+* 🧠  I'm learning Full Stack Web Development course from Online Boot Camp.
 * 🤝  I'm open to collaborating on Frontend and Backend Projects.
 * ⚡  Learning mindset 🧠.
 
